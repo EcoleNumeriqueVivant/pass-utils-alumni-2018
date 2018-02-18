@@ -4,14 +4,13 @@
 
 ###### Dépendances à installer :
 
-- **installer gpg**
+- **Installer gpg**
 
     * Ubuntu / Debian
 
 
     ```
         sudo apt-get install gpg
-
     ```
 
     * Macintosh
@@ -21,7 +20,7 @@
        brew install gnupg
     ```
 
-- **installer pass**
+- **Installer pass**
 
 
     * Ubuntu / Debian
@@ -76,7 +75,7 @@
 
 ###### Lien utiles
    - [pass](https://www.passwordstore.org/)
-   - [Générer une clé gpg] (https://help.github.com/articles/generating-a-new-gpg-key/)
-   - [Les commandes gpg](http://blog.ghostinthemachines.com/2015/03/01/how-to-use-gpg-command-line/)
+   - [générer une clé gpg](https://help.github.com/articles/generating-a-new-gpg-key/)
+   - [les commandes gpg](http://blog.ghostinthemachines.com/2015/03/01/how-to-use-gpg-command-line/)
 
 **Note**: les mots de passes sont stockés dans ce dépot [pass-store](https://github.com/EcoleNumeriqueVivant/pass-store-alumni-2018)
