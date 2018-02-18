@@ -28,7 +28,6 @@
 
     ```
         sudo apt-get install pass
-
     ```
 
     * Macintosh
@@ -57,7 +56,6 @@
     -
      key: clement
      value: 51B7E224
-
     ```
 
   Une fois la clé ajoutée éxecutez la commmande ci-dessous, elle permet d'encrypter les secrets à nouveau en incluant la nouvelle clé gpg
@@ -69,7 +67,7 @@
   ccuet/passwords/rds: reencrypting to 2CE3E358019F7C0A 339704ACABDE99C2 995E00D8F0D41C67
   [master 2783a9a] Reencrypt password store using new GPG id BED1CF16, 51B7E224, F69A4A68.
   1 file changed, 0 insertions(+), 0 deletions(-)
-  rewrite project/passwords/db.gpg (100%)
+  rewrite all/passwords/db.gpg (100%)
 
   ```
 
